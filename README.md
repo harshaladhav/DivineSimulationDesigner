@@ -1,2 +1,2 @@
 Divine Simulation Designer |
-Copyright @ harshaladhav, DivineFear
+Copyright @ Harshal Adhav, DivineFear
